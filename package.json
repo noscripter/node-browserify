@@ -39,7 +39,7 @@
     "domain-browser": "~1.1.0",
     "duplexer": "~0.1.1",
     "events": "~1.0.0",
-    "glob": "~3.2.8",
+    "glob": "~5.0.15",
     "http-browserify": "^1.4.0",
     "https-browserify": "~0.0.0",
     "inherits": "~2.0.1",
